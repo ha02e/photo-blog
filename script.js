@@ -9,4 +9,13 @@ generateBtn.addEventListener('click', () => {
     img.src = imgUrl;
 
     gridContainer.appendChild(img);  //이미지를 그리드 컨테이너에 추가
+
+
+    //이미지가 30개 이상일 경우 모든 이미지 삭제
+    if(gridContainer.children.length >= 30){
+        const confirmed = confirm("모든 사진을 지우시겠습니까?");
+        if(confirmed){
+            gridContainer.innerHTML = "";  //이미지 모두 삭제
+        }
+    }
 });
