@@ -35,4 +35,5 @@ AI 서비스를 이용한 랜덤 이미지 생성 사이트 만들기
 </table>
 
 - [랜덤 이미지 API 활용 (Lorem Picsum)](https://picsum.photos/)
+- [netlify를 이용하여 배포하기](https://www.netlify.com/)
 <br> 
