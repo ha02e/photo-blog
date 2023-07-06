@@ -26,6 +26,12 @@ AI 서비스를 이용한 랜덤 이미지 생성 사이트 만들기
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp 
  </td>
 </tr>
+<tr>
+ <td align="center">배포</td>
+ <td>
+  <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp 
+ </td>
+</tr>
 </table>
 
 - [랜덤 이미지 API 활용 (Lorem Picsum)](https://picsum.photos/)
