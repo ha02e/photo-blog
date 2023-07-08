@@ -11,6 +11,8 @@ https://velog.io/tags/random-photo30
 
 
 ## 완성 화면
+![random-photo30_short](https://github.com/ha02e/random-photo30/assets/121777501/713259d9-3c78-44b6-a725-09d5a9d38c80)
+
 
 ## 배포 링크
 https://random-photo30.netlify.app/
